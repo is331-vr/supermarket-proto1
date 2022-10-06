@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ModernSupermarket/Scenes/Scene_Supermarket/Supermarket.unity
     guid: 95cb9ac7a1494454abac29b7879ed266
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6374a02a77bdcd94698f61780b5b9e96, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3bb12271bbe2aef44a54e5540b83e8e7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 10b35e146eb9d4e4e992eb8befdd8e55, type: 2}
